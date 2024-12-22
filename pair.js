@@ -80,17 +80,40 @@ let eco = '*`'
 let oce = '`*'
 let oc = '>'
 
-let desc = config.SEND_MESSAGE	
+ let desc = `*🎉Sᴜʜᴀꜱ Mᴅ V9 Sᴇꜱꜱɪᴏɴ Iᴅ Iꜱ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴜꜱꜱꜰᴜʟʟʏ.✨*
+
+*👋Hey...! I'm Suhas Pathsindu.(Suhas Bro). Follow Us & Shere Channel.🫶*
+
+_*~💡 This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using Baileys.~*_
+
+*➟➟➟➟➟➟➟➟➟➟➟➟➟➟➟*
+
+*🏮ꜱᴜʙꜱᴄʀɪʙᴇ ᴜꜱ* ➟https://youtube.com/@suhasbro
+
+*💡ꜰᴏʟʟᴏᴡ ᴜꜱ* ➟https://whatsapp.com/channel/0029VagKNUe96H4IdMbr9f2o
+
+*✨ᴡᴇʙ ꜱɪᴛᴇ* ➠ https://suhas-web-new.vercel.app/
+
+*🎉ᴛᴇʟᴇɢʀᴀᴍ* ➠https://t.me/suhasbro
+
+*🎊ʀᴇᴘᴏ* ➠https://github.com/suhasbro24/SUHAS-MD-V8
+
+*➟➟➟➟➟➟➟➟➟➟➟➟➟➟➟*
+
+
+*_🗣️Sʜᴇʀᴇ Oᴜʀ YᴏᴜTᴜʙᴇ Cʜᴀɴɴᴇʟ Lɪɴᴋ & WʜᴀᴛꜱAᴘᴘ Cʜᴀɴɴᴇʟ Lɪɴᴋ Wɪᴛʜ Yᴏᴜʀ Fʀɪᴇɴᴅꜱ...💙_*
+
+> *✨ Powered By SUHAS-MD-V9 💞*`; 
 
 XeonBotInc.sendMessage(user_jid, {
 
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "© 𝐒𝐚𝐡𝐚𝐬 𝐓𝐞𝐜𝐡 𝐃𝐞𝐯𝐞𝐥𝐨𝐦𝐩𝐞𝐧𝐭.💗",
-body: `SAHAS-MD-V2 | MULTI-DEVICE-WHATSAPP-BOT`,
-thumbnailUrl: "https://pomf2.lain.la/f/gssbhhf4.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VaiTjMlK5cDLek3bB533",
+title: "✨ 𝚂𝚄𝙷𝙰𝚂-𝙼𝙳-𝚅9 💗",
+body: `SUHAS-MD-V9 | WhatsApp Bot`,
+thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VagKNUe96H4IdMbr9f2o",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
