@@ -67,7 +67,7 @@ router.get('/', async (req, res) => {
                
                 const string_session = mega_url.replace('https://mega.nz/file/', '')
 
- let md = "SUHAS-MD=" + string_session;
+                const md = "SUHAS-MD=" + string_session;
 			
                const sid = config.BOT_NAME + string_session
     
